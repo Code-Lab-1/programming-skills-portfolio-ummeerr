@@ -1,0 +1,1 @@
+print("Allama Iqbal once said, 'inner experience is only one source of human khnowledge'")
