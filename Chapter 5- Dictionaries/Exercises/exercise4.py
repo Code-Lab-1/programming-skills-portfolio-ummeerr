@@ -4,8 +4,6 @@ rivers = {
     'Congo':'Africa',
     'Amazon riveer':'South America',
     'Yellow river':'China',
-
-
 }
 
 for river, country in rivers.items():
